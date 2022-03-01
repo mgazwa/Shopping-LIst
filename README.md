@@ -1,3 +1,21 @@
+
+"@material-ui/core": "^4.11.0",
+"@material-ui/icons": "^4.9.1",
+"@material-ui/lab": "^4.0.0-alpha.56",
+"@testing-library/jest-dom": "^4.2.4",
+"@testing-library/react": "^9.5.0",
+"@testing-library/user-event": "^7.2.1",
+"@types/jest": "^24.9.1",
+"@types/node": "^12.12.55",
+"@types/react": "^16.9.49",
+"@types/react-dom": "^16.9.8",
+"@types/uuid": "^8.3.0",
+"node-sass": "^4.14.1",
+"react": "^16.13.1",
+"react-dom": "^16.13.1",
+"react-scripts": "3.4.3",
+"typescript": "^3.7.5",
+"uuid": "^8.3.0"
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
