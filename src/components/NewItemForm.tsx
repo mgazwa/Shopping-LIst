@@ -9,7 +9,7 @@ import {
     Select,
     TextField, Theme,
 
-} from "@mui/material";
+} from "@material-ui/core";
 
 export const NewItemForm = () => {
     const styles = makeStyles((theme: Theme) =>
